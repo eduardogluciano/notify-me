@@ -1,0 +1,8 @@
+node_modules
+node/node_modules
+.vtex
+*.log
+notify-me-demo.json
+.agents/
+.claude/
+agent/

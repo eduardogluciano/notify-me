@@ -1,0 +1,24 @@
+{
+  "vendor": "masterclass",
+  "name": "notify-me",
+  "version": "0.1.1",
+  "title": "Notify Me",
+  "description": "Saves back-in-stock notify-me requests (email, skuId) in Master Data and lists pending requests.",
+  "builders": {
+    "node": "7.x",
+    "masterdata": "1.x"
+  },
+  "policies": [
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "api.vtex.com",
+        "path": "/api/*"
+      }
+    },
+    {
+      "name": "ADMIN_DS"
+    }
+  ],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

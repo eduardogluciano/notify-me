@@ -1,0 +1,20 @@
+{
+  "title": "v1",
+  "type": "object",
+  "properties": {
+    "email": { "type": "string" },
+    "skuid": { "type": "string" },
+    "status": { "type": "string" },
+    "createdAt": { "type": "string" }
+  },
+  "required": ["email", "skuid", "status"],
+  "v-indexed": ["email", "skuid", "status"],
+  "v-default-fields": ["email", "skuid", "status", "createdAt"],
+  "v-cache": false,
+  "v-security": {
+    "allowGetAll": false,
+    "publicRead": [],
+    "publicWrite": [],
+    "publicFilter": []
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "version": 1,
+  "skills": {
+    "masterdata-storage-strategy": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/masterdata-storage-strategy/SKILL.md",
+      "computedHash": "f1779b61ee97b7ac80684f85e84d0822eee06f04a344fa5ecd3ff4fc0f80e0de"
+    },
+    "vtex-io-admin-react": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-admin-react/SKILL.md",
+      "computedHash": "c02659e21cc8a17f7868f956f3879abff0166d24c6587a4a640f4e12219a4cfc"
+    },
+    "vtex-io-app-contract": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-app-contract/SKILL.md",
+      "computedHash": "304c7ecb5c9ee5d6788e732d2733ffa63f32927e9e1c565149cc2991922c52fa"
+    },
+    "vtex-io-app-settings": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-app-settings/SKILL.md",
+      "computedHash": "6d1c223ef0c03a9f101e92485a97d446899a3e4bbc65cbac9257ad495e23397a"
+    },
+    "vtex-io-application-performance": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-application-performance/SKILL.md",
+      "computedHash": "1f347706cbf9556f77d02aa7191ab1d0cf62f2e7578962423eb55e022cbacc2d"
+    },
+    "vtex-io-auth-and-policies": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-auth-and-policies/SKILL.md",
+      "computedHash": "86b78393a2037c5e32ab9a9c83d8ca03ec493d6d817479054546f364a367a2b4"
+    },
+    "vtex-io-auth-tokens-and-context": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-auth-tokens-and-context/SKILL.md",
+      "computedHash": "ae17ce68a68a155b74d61fd4b6f5062688ee2a2f953dd9cbcee4dd02d324af58"
+    },
+    "vtex-io-client-integration": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-client-integration/SKILL.md",
+      "computedHash": "f31c7a54fc60385f344ed6989bafffb1995028e0fed06996d7f16657d7fcdb2c"
+    },
+    "vtex-io-data-access-patterns": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-data-access-patterns/SKILL.md",
+      "computedHash": "7f1c9417c95633780223240e4019ee4a6def24c4225c56ee2659299361244e01"
+    },
+    "vtex-io-events-and-workers": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-events-and-workers/SKILL.md",
+      "computedHash": "22fb940bb16f7c09c70ab4cee77ac6835b4ed1c64ab3414a26f705f9115b7d21"
+    },
+    "vtex-io-graphql-api": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-graphql-api/SKILL.md",
+      "computedHash": "00ed590c40fa8710c3f5f0861bc8a2763bd591f8c6deeea52a7d0b7995302eb9"
+    },
+    "vtex-io-http-routes": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-http-routes/SKILL.md",
+      "computedHash": "4a2b4558bd550cb6ca8cbd4a6a1c223c9f0ba757c8dfff315c2859909ff8c9c8"
+    },
+    "vtex-io-masterdata": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-masterdata/SKILL.md",
+      "computedHash": "2a37e0e3a96a372bf06202b9df962d2577a22d49ec4c791926d713de211ddde1"
+    },
+    "vtex-io-masterdata-strategy": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-masterdata-strategy/SKILL.md",
+      "computedHash": "e259aaeda2d54f1221c2f97bcc77a2819f247f70459b17cc2cd5edf84450de58"
+    },
+    "vtex-io-messages-and-i18n": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-messages-and-i18n/SKILL.md",
+      "computedHash": "f5fe6dbd9fee773506842524af598f9d99264f3a2d0c46c4d71de178b50342fc"
+    },
+    "vtex-io-observability-and-ops": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-observability-and-ops/SKILL.md",
+      "computedHash": "0a13794d37e8d9665ce29cb7e79d87bffee803571a7aa49af67ec5055f19f40a"
+    },
+    "vtex-io-rbac": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-rbac/SKILL.md",
+      "computedHash": "5f1618e64cfdddc4f1db6d291219a2d0ae98e6a8b8664b6a5f199a2338e63064"
+    },
+    "vtex-io-react-apps": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-react-apps/SKILL.md",
+      "computedHash": "5c6c312993224202260bd0576110ddbaf775dfaae0d8b5c76620392272e1fc0a"
+    },
+    "vtex-io-render-runtime-and-blocks": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-render-runtime-and-blocks/SKILL.md",
+      "computedHash": "73ed97ad0d04b3a21d31676f2e70ea1ef2a1813d6941507bf3145baceec99002"
+    },
+    "vtex-io-rootpath": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-rootpath/SKILL.md",
+      "computedHash": "6366fef32a6c4fd924c9e1390e5f315ad74eb7e9f7d3f663d570f037bc3bd3e8"
+    },
+    "vtex-io-security-boundaries": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-security-boundaries/SKILL.md",
+      "computedHash": "64bcedc8de434107647e37066ecfe3b5bfadad9e90c7d2fd2f2f3146e8ec23c8"
+    },
+    "vtex-io-service-apps": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-service-apps/SKILL.md",
+      "computedHash": "4853dedced4d2b0b3844ae68ae93ba2ddb0d962faaa1d4b5e6c8d5ac33e9c500"
+    },
+    "vtex-io-service-configuration-apps": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-service-configuration-apps/SKILL.md",
+      "computedHash": "4c2874dee711bbec53e47562378b639dfd024dd20257ca64369d5cbcff02a2eb"
+    },
+    "vtex-io-service-paths-and-cdn": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-service-paths-and-cdn/SKILL.md",
+      "computedHash": "256f7b18695a45c145806bfd05d68651c01f409a6eab6f94ff53e63ac43d476e"
+    },
+    "vtex-io-service-runtime": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-service-runtime/SKILL.md",
+      "computedHash": "d1c2c0c72eee57d4e6bcb131f5f3f91cfb1692818ef3366225486dfdb9635ebe"
+    },
+    "vtex-io-session-apps": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-session-apps/SKILL.md",
+      "computedHash": "533108c10cbe189a3703de11788236f8df3c0296627dbaca2e2d7d5356ee8543"
+    },
+    "vtex-io-storefront-react": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-storefront-react/SKILL.md",
+      "computedHash": "713243e35282706eb325ceaf284023c811ef2d324d3a0a65489ab1c70c3d846e"
+    },
+    "vtex-io-storefront-theme-app": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-storefront-theme-app/SKILL.md",
+      "computedHash": "cc066b7a25c9b0b7a8ef30467fb83b6831c7b271dec27f203ed7268839a8d7c7"
+    },
+    "vtex-io-storefront-theme-versioning": {
+      "source": "vtex/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vtex-io-storefront-theme-versioning/SKILL.md",
+      "computedHash": "f02b408a9a5469d76dc60bd2e6015b9aa6ec8f1e2e1a5af3347ca5914877c45f"
+    }
+  }
+}
